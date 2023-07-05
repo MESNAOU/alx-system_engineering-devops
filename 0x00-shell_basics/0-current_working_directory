@@ -1,2 +1,3 @@
 #!/bin/bash
-echo pwd
+cur_pos=$(pwd)
+echo $cur_pos
