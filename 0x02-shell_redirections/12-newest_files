@@ -1,2 +1,3 @@
 #!/bin/bash
 ls -ltc | head
+ls -c | head
